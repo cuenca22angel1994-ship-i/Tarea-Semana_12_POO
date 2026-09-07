@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "001",
+    "nombre": "HAMBURGUESA",
+    "precio": 2.5,
+    "stock": 8
+  },
+  {
+    "codigo": "002",
+    "nombre": "PINCHO DE CAMARÓN",
+    "precio": 4.0,
+    "stock": 15
+  }
+]
