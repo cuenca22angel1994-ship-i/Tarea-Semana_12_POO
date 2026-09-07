@@ -31,7 +31,3 @@ Las listas `_productos`, `_usuarios` y `_ventas` se mantienen para **listar, ite
 -  Consulta de ventas por usuario
 -  Persistencia automática en archivos JSON
 -  Manejo de excepciones (archivos, formato, permisos)
-
-## ▶️ Ejecución
-```bash
-python main.py
